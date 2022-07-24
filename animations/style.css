@@ -1,0 +1,15 @@
+body{
+    background-color:cyan !important;
+}
+h1{
+    margin-top :50px !important;
+    font-weight:bolder !important;
+    background-color:white;
+    border-radius:5px;
+    padding: 5px;
+}
+img{
+    height: 500px;
+    border-radius: 5px;
+    width:100%;
+}
